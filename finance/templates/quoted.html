@@ -1,0 +1,19 @@
+{% extends "layout.html" %}
+
+{% block title %}
+    Quoted
+{% endblock %}
+
+{% block main %}
+
+    <table>
+            {% for stock in stocks %}
+                <tr>
+                    <!-- <td>{{ stock['name'] }}</td> -->
+                    <td>{{ stock['price'] }}</td>
+                    <td>{{ stock['symbol'] }}</td>
+                </tr>
+            {% endfor %}
+    </table>
+
+{% endblock %}
