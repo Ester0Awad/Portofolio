@@ -1,0 +1,8 @@
+1- I can characterize the top 100 songs of one listener from 2018
+by taking the average of energy, valence, and danceability of a person’s top 100 songs.
+
+2- Taking the average of a person's energy, valence, and danceability of a person’s top 100 songs
+and count how many that person played each song of his top 100 songs and measure the each song volume.
+It probably seems that the most songs played and its volume was high than the other songs will characterize
+the person's audio aura.
+

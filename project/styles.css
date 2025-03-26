@@ -1,0 +1,1513 @@
+.name {
+
+
+    color: #CD5C5C;
+
+    margin-top:  30px;
+    margin-bottom: 0px;
+    margin-right:  -55px;
+    margin-left: 155px;
+
+    font-size: 32px;
+    font-family: Sans-serif, Arial;
+    font-weight: bold;
+
+}
+
+.header{
+    margin-top:  49px;
+    margin-bottom: 20px;
+}
+
+.home{
+    color: black;
+
+    margin-top:  0px;
+
+    margin-bottom: -30px;
+    margin-right:  -50px;
+    margin-left: 280px;
+
+    font-size: 18px;
+    font-family: Sans-serif, Arial;
+
+}
+
+
+
+.myfacebook{
+    color: #CD5C5C;
+    margin-top:  0px;
+    margin-bottom: 0px;
+    margin-right:  -55px;
+    margin-left: 235px;
+
+    font-size: 20px;
+
+    /* height: 100px; */
+    /* width: 50; */
+
+
+    /* padding-top: 50px; */
+    /* padding-right: 30px; */
+    /* padding-bottom: 50px; */
+    /* padding-left: 80px; */
+}
+
+.mygithub{
+    color: #CD5C5C;
+    margin-top: 0px;
+    margin-bottom: 0px;
+    margin-right: 0px;
+    margin-left: 55px;
+
+    font-size: 20px;
+
+
+}
+
+.myinstagram{
+    color: #CD5C5C;
+    margin-top: 0px;
+    margin-bottom: 0px;
+    margin-right: 0px;
+    margin-left: 0px;
+
+    font-size: 20px;
+
+}
+
+.mylinkedin{
+    color: #CD5C5C;
+    margin-top: 0px;
+    margin-bottom: 0px;
+    margin-right: 0px;
+    margin-left: 0px;
+
+    font-size: 20px;
+
+}
+
+.myreddit{
+    color: #CD5C5C;
+    margin-top:  0px;
+    margin-bottom:  0px;
+    margin-right: 0px;
+    margin-left: 0px;
+
+    font-size: 20px;
+
+}
+
+.mythreads{
+    color: #CD5C5C;
+    margin-top: 0px;
+    margin-bottom: 0px;
+    margin-right: 0px;
+    margin-left: 0px;
+
+    font-size: 20px;
+
+}
+
+.mytwitter{
+    color: #CD5C5C;
+    margin-top: 20px;
+    margin-bottom: -500px;
+    margin-right: 0px;
+    margin-left: 0px;
+
+    font-size: 20px;
+
+}
+
+.myimage{
+
+    height: 16cm;
+    width: 13cm;
+}
+
+.myemail a:link,
+.myemail a:visited,
+.myemail a:hover,
+.myemail a:active {
+
+    color: #CD5C5C;
+    font-size: 20px;
+
+    margin-top:  53px;
+    margin-bottom:  -10px;
+    margin-right: 0px;
+    margin-left: 150px;
+
+   /* text-decoration: underline; */
+
+}
+
+.myemail{
+    margin-top:   15px;
+    margin-bottom:  -10px;
+
+   /* margin-right: 0px; */
+    margin-left:   -27px;
+}
+
+.minerva a:link,
+.minerva a:visited,
+.minerva a:hover,
+.minerva a:active {
+
+    color: #CD5C5C;
+    font-size: 20px;
+    margin-top:  50px;
+    margin-bottom:  55px;
+    margin-right: 0px;
+    margin-left:  227px;
+}
+
+.minerva{
+    margin-top:   47px;
+
+}
+
+
+.statu{
+
+    color: black;
+    font-size: 20px;
+
+    margin-top:  10px;
+    margin-bottom: -50px;
+    margin-right: 20px;
+    margin-left:  146px;
+}
+
+.statu0{
+
+    color: black;
+    font-size: 20px;
+
+    margin-top:  50px;
+    margin-bottom: -50px;
+    margin-right: 10px;
+    margin-left:  205px;
+
+}
+
+#education a:link,
+#education a:visited,
+#education a:hover,
+#education a:active {
+
+    color: #CD5C5C;
+    font-size: 20px;
+    margin-top:  50px;
+    margin-bottom:  55px;
+    margin-right: 0px;
+    margin-left:  235px;
+}
+
+#education{
+
+    /* color: #CD5C5C; */
+    font-size: 20px;
+    margin-top:   16px;
+    margin-bottom:             -350px;
+    margin-right: -50px;
+    margin-left: 65px;
+    font-family: Sans-serif, Arial;
+
+
+
+}
+
+#eduparagraph{
+
+    color: black;
+    font-size: 20px;
+
+    margin-top:           70px;
+    margin-bottom:             -462px;
+    margin-right: -700px;
+    margin-left:  480px;
+    font-family: Sans-serif, Arial;
+    /* visibility: hidden; */
+
+}
+
+
+#extracurricular a:link,
+#extracurricular a:visited,
+#extracurricular a:hover,
+#extracurricular a:active {
+
+    color: #CD5C5C;
+    font-size: 20px;
+    margin-top:  50px;
+    margin-bottom:  55px;
+  /*  margin-right: 0px; */
+  /*  margin-left:  235px; */
+}
+
+#extracurricular{
+
+
+    margin-top:             348px;
+    margin-bottom:         0px;
+    margin-right: 0px;
+    margin-left:  178px;
+    font-family: Sans-serif, Arial;
+
+}
+
+
+#paper{
+
+    position: absolute;
+    top: 50px;
+ /*   right: -28px; /
+  /*  margin-top:              0px;
+    margin-bottom:        -100px; */
+   /* margin-right: -50px; */
+    margin-left:  475px;
+
+    font-weight: bold;
+    font-size: 20px;
+    font-family: Sans-serif, Arial;
+
+}
+
+#mapk{
+
+    position: absolute;
+    top: 100px;
+ /*   right: -28px; */
+    margin-top:             -24px;
+  /*  margin-bottom:        -100px; */
+   /*  margin-right: 100px; */
+    margin-left:  475px;
+
+    font-weight: bold;
+    font-size: 20px;
+    font-family: Sans-serif, Arial;
+
+}
+
+
+.lumierephoto{
+
+    position: absolute;
+    top: 130px;
+    right: 50px;
+
+    height: 10cm;
+    width: 6.87cm;
+}
+
+#lumiere{
+
+    color: black;
+    font-size: 17px;
+
+    margin-top:          -230px;
+    margin-bottom:             -462px;
+    margin-right: -465px;
+    margin-left:  480px;
+    font-family: Sans-serif, Arial;
+
+}
+
+
+#research{
+
+    color: black;
+    font-size: 17px;
+
+    position: absolute;
+    top: 265px;
+   /* right: 50px; */
+
+   /*  margin-top:          -230px;
+    margin-bottom:             -462px; */
+
+    margin-right:  320px;
+    margin-left:  480px;
+    font-family: Sans-serif, Arial;
+
+}
+
+#open1{
+
+    display: block;
+    position: absolute;
+    top: 100px;
+    right: 52px;
+
+}
+
+
+#lumierephoto-explaination{
+    color: gray;
+    font-size: 10px;
+    position: absolute;
+    top:    510px;
+    right: 50px;
+
+}
+
+
+
+
+
+#counselor{
+
+    position: absolute;
+    top: 540px;
+
+    margin-left:  475px;
+
+    font-weight: bold;
+    font-size: 20px;
+    font-family: Sans-serif, Arial;
+
+}
+
+
+.wellspringme-photo{
+
+    position: absolute;
+    top: 600px;
+    right: 505px;
+
+    height: 10cm;
+    width: 6.87cm;
+}
+
+#wellspring{
+
+    color: black;
+    font-size: 17px;
+    position: absolute;
+    top: 600px;
+    /* right: 1000px; */
+
+   /* margin-top:          -230px;
+    margin-bottom:             -462px; */
+    margin-right:  50px;
+    margin-left:  750px;
+    font-family: Sans-serif, Arial;
+
+}
+
+
+#wellphoto-explaination{
+    color: gray;
+    font-size: 10px;
+    position: absolute;
+    top: 980px;
+    right: 505px;
+
+}
+
+#camps{
+
+    color: black;
+    font-size: 17px;
+    position: absolute;
+    top: 730px;
+    /* right: 1000px; */
+
+   /* margin-top:          -230px;
+    margin-bottom:             -462px; */
+    margin-right:  50px;
+    margin-left:  750px;
+    font-family: Sans-serif, Arial;
+
+}
+
+
+
+#moonshot{
+
+    position: absolute;
+    top: 1015px;
+
+    margin-left:  475px;
+
+    font-weight: bold;
+    font-size: 20px;
+    font-family: Sans-serif, Arial;
+
+}
+
+.moonshotphoto{
+
+    position: absolute;
+    top: 1070px;
+    right: 50px;
+
+    height:  5.8cm;
+    width:   12cm;
+}
+
+#open2{
+
+    display: block;
+    position: absolute;
+    top: 1040px;
+    right: 52px;
+
+}
+
+
+#moonshot-1{
+
+    color: black;
+    font-size: 17px;
+
+    position: absolute;
+    top: 1065px;
+
+
+
+    /*margin-top:          -700px;
+    margin-bottom:             0px; */
+    margin-right: 525px;
+    margin-left: 480px;
+    font-family: Sans-serif, Arial;
+
+}
+
+#moonshot-2{
+
+    color: black;
+    font-size: 17px;
+
+    position: absolute;
+    top: 1320px;
+
+    /*margin-top:          -700px;
+    margin-bottom:             0px; */
+    margin-right: 85px;
+    margin-left: 480px;
+    font-family: Sans-serif, Arial;
+
+}
+
+#moonphoto-explaination{
+
+    color: gray;
+    font-size: 10px;
+    position: absolute;
+    top: 1290px;
+    right: 50px;
+
+}
+
+
+#nimun{
+
+    position: absolute;
+    top: 1390px;
+
+    margin-left:  475px;
+
+    font-weight: bold;
+    font-size: 20px;
+    font-family: Sans-serif, Arial;
+
+}
+
+
+.nimun-photo{
+
+    position: absolute;
+    top: 1470px;
+    right: 42px;
+
+    height: 8.5cm;
+    width: 7cm;
+}
+
+
+#who{
+
+    color: black;
+    font-size: 17px;
+
+
+    position: absolute;
+    top: 1470px;
+    right:  320px;
+    ---
+
+    /*margin-top:          -230px;
+    margin-bottom:             -462px; */
+    margin-right: 0px;
+    margin-left:  600px;
+    font-family: Sans-serif, Arial;
+
+}
+
+
+
+
+#delegate{
+
+    color: black;
+    font-size: 17px;
+
+
+    position: absolute;
+    top: 1625px;
+    right:  325px;
+    ---
+
+    /*margin-top:          -230px;
+    margin-bottom:             -462px; */
+    margin-right: 0px;
+    margin-left:  600px;
+    font-family: Sans-serif, Arial;
+
+}
+
+
+
+#nimunphoto-explaination{
+
+    color: gray;
+    font-size: 10px;
+    position: absolute;
+    top: 1790px;
+    right: 41px;
+
+}
+
+#nano{
+
+    position: absolute;
+    top: 1820px;
+
+    margin-left:  475px;
+
+    font-weight: bold;
+    font-size: 20px;
+    font-family: Sans-serif, Arial;
+
+}
+
+
+#nanozone{
+
+    color: black;
+    font-size: 17px;
+
+
+    position: absolute;
+    top: 1870px;
+    right:  50px;
+    ---
+
+    /*margin-top:          -230px;
+    margin-bottom:             -462px; */
+    margin-right: 0px;
+    margin-left:  600px;
+    font-family: Sans-serif, Arial;
+
+}
+
+#ypp{
+
+    position: absolute;
+    top: 2040px;
+
+    margin-left:  475px;
+
+    font-weight: bold;
+    font-size: 20px;
+    font-family: Sans-serif, Arial;
+
+}
+
+#emonovo{
+
+    color: black;
+    font-size: 17px;
+
+
+    position: absolute;
+    top: 2090px;
+    right:  50px;
+    ---
+
+    /*margin-top:          -230px;
+    margin-bottom:             -462px; */
+    margin-right: 0px;
+    margin-left:  600px;
+    font-family: Sans-serif, Arial;
+
+}
+
+
+#program{
+
+    color: black;
+    font-size: 17px;
+
+
+    position: absolute;
+    top: 2190px;
+    right:  50px;
+    ---
+
+    /*margin-top:          -230px;
+    margin-bottom:             -462px; */
+    margin-right: 0px;
+    margin-left:  600px;
+    font-family: Sans-serif, Arial;
+
+}
+
+
+
+
+#soccer{
+
+    position: absolute;
+    top: 2310px;
+
+    margin-left:  475px;
+
+    font-weight: bold;
+    font-size: 20px;
+    font-family: Sans-serif, Arial;
+
+}
+
+
+.soccer-photo{
+
+    position: absolute;
+    top: 2390px;
+    right: 505px;
+
+    height: 9cm;
+    width: 6.88cm;
+}
+
+
+#soccerphoto-explaination{
+
+    color: gray;
+    font-size: 10px;
+    position: absolute;
+    top: 2730px;
+    right: 505px;
+
+}
+
+
+
+#open3{
+
+    display: block;
+    position: absolute;
+    top: 2365px;
+    right: 703px;
+
+}
+
+
+#team{
+
+    color: black;
+    font-size: 17px;
+    position: absolute;
+    top: 2390px;
+    /* right: 1000px; */
+
+   /* margin-top:          -230px;
+    margin-bottom:             -462px; */
+    margin-right:  65px;
+    margin-left:  750px;
+    font-family: Sans-serif, Arial;
+
+}
+
+#team0{
+
+    color: black;
+    font-size: 17px;
+    position: absolute;
+    top: 2650px;
+    /* right: 1000px; */
+
+
+   /* margin-bottom:             0px; */
+    margin-right:  50px;
+    margin-left:  750px;
+    font-family: Sans-serif, Arial;
+
+}
+
+#space{
+
+    color: white;
+    font-size: 1px;
+    position: absolute;
+    top: 2790px;
+
+}
+
+
+#certificates-extra a:link,
+#certificates-extra a:visited,
+#certificates-extra a:hover,
+#certificates-extra a:active {
+
+    color: #CD5C5C;
+    font-size: 20px;
+  /*  margin-top:  50px; */
+  /*  margin-bottom:  55px; */
+    margin-right: 0px;
+    margin-left:  235px;
+}
+#certificates-extra{
+
+
+    margin-top:          564px;
+    margin-bottom:  0px;
+    ++
+    margin-right: 100px;
+    margin-left: 55px;
+    font-family: Sans-serif, Arial;
+
+}
+
+
+
+
+
+
+
+#extracurricularedu a:link,
+#extracurricularedu a:visited,
+#extracurricularedu a:hover,
+#extracurricularedu a:active {
+
+    color: #CD5C5C;
+    font-size: 20px;
+    margin-top:  50px;
+    margin-bottom:  55px;
+  /*  margin-right: 0px; */
+  /*  margin-left:  235px; */
+}
+
+#extracurricularedu{
+
+
+    margin-top:             590px;
+    margin-bottom:        0px;
+
+
+    margin-right: 0px;
+    margin-left:  178px;
+    font-family: Sans-serif, Arial;
+
+}
+
+
+
+
+
+
+#certificates a:link,
+#certificates a:visited,
+#certificates a:hover,
+#certificates a:active {
+
+    color: #CD5C5C;
+    font-size: 20px;
+    margin-top:  50px;
+    margin-bottom:  55px;
+   /* margin-right: 0px;
+    margin-left:  235px; */
+}
+#certificates{
+
+
+    margin-top:  0px;
+    margin-bottom:  -5px;
+    margin-right: 100px;
+    margin-left: 290px;
+    font-family: Sans-serif, Arial;
+
+}
+
+
+
+
+.lumiere-certificate{
+
+    position: absolute;
+    top:  50px;
+    right: 89px;
+
+    height: 12cm;
+    width: 18cm;
+
+}
+
+
+.moonshot-certificate{
+
+    position: absolute;
+    top:  550px;
+
+    right: 89px;
+
+    height: 12cm;
+    width: 18cm;
+}
+
+.nimun-certificate{
+
+    position: absolute;
+    top:  1060px;
+
+    right: 89px;
+
+    height: 12cm;
+    width: 18cm;
+}
+
+
+.google-certificate{
+
+    position: absolute;
+    top:  1570px;
+
+    right: 89px;
+
+    height: 12cm;
+    width: 18cm;
+}
+
+.edraak-certificate{
+
+    position: absolute;
+    top:  2080px;
+
+    right: 89px;
+
+    height: 12cm;
+    width: 18cm;
+}
+
+.futurelearn1-certificate{
+
+    position: absolute;
+    top:  2590px;
+
+    right: 189px;
+
+    height: 16cm;
+    width: 12cm;
+}
+
+.futurelearn2-certificate{
+
+    position: absolute;
+    top:  3250px;
+
+    right: 189px;
+
+    height: 16cm;
+    width: 12cm;
+}
+
+.futurelearn3-certificate{
+
+    position: absolute;
+    top: 3910px;
+
+    right: 189px;
+
+    height: 16cm;
+    width: 12cm;
+}
+
+
+#space2{
+
+    color: white;
+    font-size: 1px;
+    position: absolute;
+    top: 4700px;
+
+}
+
+
+
+
+
+
+
+#cv a:link,
+#cv a:visited,
+#cv a:hover,
+#cv a:active {
+
+    color: #CD5C5C;
+    font-size: 20px;
+    margin-top:  50px;
+    margin-bottom:  55px;
+    margin-right: 0px;
+    margin-left:  235px;
+}
+#cv{
+
+
+    margin-top:  -5px;
+    margin-bottom:  0px;
+    margin-right: 100px;
+    margin-left:  128px;
+    font-family: Sans-serif, Arial;
+
+}
+
+#cvframe{
+    margin-top:  -400px;
+    margin-bottom:  -550px;
+    margin-right: -500px;
+    margin-left:  500px;
+
+}
+
+#open{
+
+     display: block;
+     position: absolute;
+     top: 50px;
+     right: 100px;
+
+}
+
+#space1{
+
+    color: white;
+    font-size: 1px;
+    position: absolute;
+    top: 1100px;
+
+}
+
+
+
+
+#contact a:link,
+#contact a:visited,
+#contact a:hover,
+#contact a:active {
+
+    color: #CD5C5C;
+    font-size: 20px;
+    margin-top:  50px;
+    margin-bottom:  55px;
+    margin-right: 0px;
+    margin-left:  235px;
+}
+#contact{
+
+
+    margin-top:  -5px;
+    margin-bottom:  55px;
+    margin-right: 100px;
+    margin-left:  85px;
+    font-family: Sans-serif, Arial;
+
+}
+
+
+
+.orcid-icon {
+
+    color: black;
+    font-size: 22px;
+    display: block;
+    position: absolute;
+    top: -410px;
+    /* -- */
+    right: -60px;
+
+}
+
+.orcid-link{
+    font-size: 20px;
+    display: block;
+    position: absolute;
+    top: -416px;
+    /* -- */
+    right: -356px;
+    /* ++ */
+
+}
+
+
+
+
+
+.facebook-icon {
+
+    color: black;
+    font-size: 22px;
+    display: block;
+    position: absolute;
+    top: 105px;
+    /* -- */
+    right: 730px;
+
+}
+
+.facebook-link{
+    font-size: 20px;
+    display: block;
+    position: absolute;
+    top: -385px;
+    /* -- */
+    right: -298px;
+    /* ++ */
+
+}
+
+
+.github-icon {
+
+    color: black;
+    font-size: 22px;
+    display: block;
+    position: absolute;
+    top: 141px;
+    /* ++ */
+    right: 730px;
+
+}
+
+.github-link{
+    font-size: 20px;
+    display: block;
+    position: absolute;
+    top: -355px;
+    /* -- */
+    right: -283px;
+    /* -- */
+
+}
+
+
+.instagram-icon {
+
+    color: black;
+    font-size: 22px;
+    display: block;
+    position: absolute;
+    top: 170px;
+    /* ++ */
+    right: 732px;
+
+}
+
+.instagram-link{
+    font-size: 20px;
+    display: block;
+    position: absolute;
+    top: -326px;
+    /* -- */
+    right: -305px;
+    /* ++ */
+
+}
+
+
+.linkedin-icon {
+
+    color: black;
+    font-size: 22px;
+    display: block;
+    position: absolute;
+    top: 200px;
+    right: 732px;
+
+}
+
+.linkedin-link{
+    font-size: 20px;
+    display: block;
+    position: absolute;
+    top: -297px;
+    right: -346px;
+}
+
+
+.quora-icon {
+
+    color: black;
+    font-size: 22px;
+    display: block;
+    position: absolute;
+    top: 228px;
+    right: 732px;
+
+}
+
+.quora-link{
+    font-size: 20px;
+    display: block;
+    position: absolute;
+    top: -269px;
+    right: -356px;
+
+
+}
+
+
+.reddit-icon {
+
+    color: black;
+    font-size: 22px;
+    display: block;
+    position: absolute;
+    top: 256px;
+    right: 732px;
+
+}
+
+.reddit-link{
+    font-size: 20px;
+    display: block;
+    position: absolute;
+    top: -241px;
+    right: -390px;
+}
+
+
+.thread-icon {
+
+    color: black;
+    font-size: 22px;
+    display: block;
+    position: absolute;
+    top: 284px;
+    right: 735px;
+
+}
+
+.thread-link{
+    font-size: 20px;
+    display: block;
+    position: absolute;
+    top: -213px;
+    right: -291px;
+}
+
+
+.twitter-icon {
+
+    color: black;
+    font-size: 22px;
+    display: block;
+    position: absolute;
+    top: 312px;
+    right: 735px;
+
+}
+
+.twitter-link{
+    font-size: 20px;
+    display: block;
+    position: absolute;
+    top: -185px;
+    right: -278px;
+}
+
+
+
+
+#contactcv a:link,
+#contactcv a:visited,
+#contactcv a:hover,
+#contactcv a:active {
+
+    color: #CD5C5C;
+    font-size: 20px;
+  /*  margin-top:  50px; */
+  /*  margin-bottom:  55px; */
+    margin-right: 0px;
+    margin-left:  235px;
+}
+#contactcv{
+
+
+    margin-top: -50px;
+   /* margin-bottom:  0px; */
+    margin-right: 100px;
+    margin-left:  85px;
+    font-family: Sans-serif, Arial;
+
+}
+
+
+#photoscv a:link,
+#photoscv a:visited,
+#photoscv a:hover,
+#photoscv a:active {
+
+    color: #CD5C5C;
+    font-size: 20px;
+  /*  margin-top:  50px; */
+  /*  margin-bottom:  55px; */
+    margin-right: 0px;
+    margin-left:  235px;
+}
+#photoscv{
+
+
+    margin-top: -17px;
+   /* margin-bottom:  0px; */
+    margin-right: 100px;
+    margin-left:  93px;
+    font-family: Sans-serif, Arial;
+
+}
+
+
+
+
+
+#photos a:link,
+#photos a:visited,
+#photos a:hover,
+#photos a:active {
+
+    color: #CD5C5C;
+    font-size: 20px;
+    /* margin-top:  50px;
+    margin-bottom:  55px; */
+    margin-right: 0px;
+    margin-left:  242px;
+}
+#photos{
+
+
+    margin-top:  -55px;
+    margin-bottom:  55px;
+    margin-right: 100px;
+    margin-left:  85px;
+    font-family: Sans-serif, Arial;
+
+}
+
+
+.wellspring2{
+
+    position: absolute;
+    top:  50px;
+    right: 89px;
+
+    height: 12cm;
+    width: 18cm;
+}
+
+
+#wellspring2-explaination{
+
+    color: gray;
+    font-size: 13px;
+    position: absolute;
+    top: 510px;
+    right: 88px;
+
+}
+
+
+
+.wellspring3{
+
+    position: absolute;
+    top:  565px;
+    right: 89px;
+
+    height: 12cm;
+    width: 18cm;
+}
+
+#wellspring3-explaination{
+
+    color: gray;
+    font-size: 13px;
+    position: absolute;
+    top: 1020px;
+    right: 88px;
+
+}
+
+
+.wellspring4{
+
+    position: absolute;
+    top:  1080px;
+    right: 89px;
+
+    height: 12cm;
+    width: 18cm;
+}
+
+#wellspring4-explaination{
+
+    color: gray;
+    font-size: 13px;
+    position: absolute;
+    top: 1533px;
+    right: 88px;
+
+}
+
+
+.wellspring5{
+
+    position: absolute;
+    top:  1595px;
+    right: 89px;
+
+    height: 12cm;
+    width: 18cm;
+}
+
+#wellspring5-explaination{
+
+    color: gray;
+    font-size: 13px;
+    position: absolute;
+    top: 2047px;
+    right: 88px;
+
+}
+
+.wellspring6{
+
+    position: absolute;
+    top:  2110px;
+    right: 89px;
+
+    height: 12cm;
+    width: 18cm;
+}
+
+#wellspring6-explaination{
+
+    color: gray;
+    font-size: 13px;
+    position: absolute;
+    top: 2562px;
+    right: 88px;
+
+}
+
+
+#space3{
+
+    color: white;
+    font-size: 1px;
+    position: absolute;
+    top: 2690px;
+
+}
+
+
+a {
+    color: #CD5C5C;
+    text-decoration: none;
+}
+
+a:hover,
+a:active {
+
+  color: #CD5C5C;
+  text-decoration: underline;
+
+
+}
+
+.homelink{
+    color: gray;
+    text-decoration: none;
+}
+
+.homelink:hover,
+.homelink:active {
+
+  color: gray;
+  text-decoration: underline;
+
+
+}
+
+
+
+
+
+
+
+
+/* For making 3 photos change */
+
+/*.slideshow {
+
+    height: 10cm;
+    width: 6cm;
+    overflow: hidden;
+    position: relative;
+
+  }
+
+
+  .slide {
+
+    height: 10px;
+    width: 6px;
+    position: absolute;
+    animation: slideShow 12s infinite;
+    opacity: 0;
+
+  }
+
+
+  .slide:nth-child(1) {
+
+    animation-delay: 0s;
+
+  }
+
+
+  .slide:nth-child(2) {
+
+    animation-delay: 4s;
+
+  }
+
+
+  .slide:nth-child(3) {
+
+    animation-delay: 8s;
+
+  }
+
+
+  @keyframes slideShow {
+
+    0% {opacity: 0;}
+    8% {opacity: 1;}
+    33% {opacity: 1;}
+    41% {opacity: 0;}
+    100% {opacity: 0;}
+  } */
