@@ -260,6 +260,8 @@ def register():
 
         # Insert new user into database & hashed password into the data base if don't exisist in the database
         hashed_password = generate_password_hash(request.form.get("password"))
+       
+
         db.execute(
             "INSERT INTO users (username, hash) VALUES (?, ?);",
             request.form.get("username"),
